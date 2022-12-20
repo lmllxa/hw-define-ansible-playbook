@@ -1,0 +1,5 @@
+├── main2.yml   # Playbook file
+└── roles
+    └── print
+        └── tasks
+            └── main.yml
